@@ -1,0 +1,48 @@
+﻿soil samples,,,,,,,,,,
+,,,,,,,,,,
+Site ,Campaign,Organism,AMP,CIP,CPM,GEN,CTX,MEM,TE,CX
+1,1,E. coli,R,R,S,S,S,S,,
+1,2,E. coli,R,R,S,I,S,S,,
+1,3,E. coli,R,I,S,R,S,S,,
+1,4,E. coli,R,R,S,I,S,S,,
+1,5,E. coli,R,I,S,S,S,S,,
+1,1,Klebsiella,R,R,I,S,I,S,,
+1,2,Klebsiella,R,R,I,I,S,S,,
+1,3,Klebsiella,R,I,S,S,S,S,,
+1,4,Klebsiella,R,R,S,I,I,S,,
+1,5,Klebsiella,R,I,S,S,S,S,,
+1,1,Staphilococcus,,S,,S,,,S,S
+1,2,Staphilococcus,,S,,S,,,S,R
+1,3,Staphilococcus,,S,,S,,,S,R
+1,4,Staphilococcus,,S,,S,,,S,S
+1,5,Staphilococcus,,S,,S,,,S,S
+2,1,E. coli,R,I,S,I,I,S,,
+2,2,E. coli,R,R,S,R,S,S,,
+2,3,E. coli,R,R,S,S,I,S,,
+2,4,E. coli,R,I,S,I,S,S,,
+2,5,E. coli,R,R,S,R,S,S,,
+2,1,Klebsiella,R,I,S,I,S,S,,
+2,2,Klebsiella,R,R,I,S,S,S,,
+2,3,Klebsiella,R,R,S,I,S,S,,
+2,4,Klebsiella,R,R,I,S,S,S,,
+2,5,Klebsiella,R,I,S,I,S,S,,
+2,1,Staphilococcus,,S,,S,,,S,R
+2,2,Staphilococcus,,S,,S,,,S,S
+2,3,Staphilococcus,,S,,S,,,S,S
+2,4,Staphilococcus,,S,,S,,,S,S
+2,5,Staphilococcus,,S,,S,,,S,R
+3,1,E. coli,R,R,S,I,,S,,
+3,2,E. coli,R,R,S,I,,S,,
+3,3,E. coli,R,I,S,I,,S,,
+3,4,E. coli,R,R,S,S,,S,,
+3,5,E. coli,R,R,S,I,,S,,
+3,1,Klebsiella,R,R,S,I,,S,,
+3,2,Klebsiella,R,R,S,S,,S,,
+3,3,Klebsiella,R,R,I,I,,S,,
+3,4,Klebsiella,R,I,S,S,,S,,
+3,5,Klebsiella,R,R,I,S,,S,,
+3,1,Staphilococcus,,S,,S,,,S,S
+3,2,Staphilococcus,,S,,S,,,S,S
+3,3,Staphilococcus,,S,,S,,,S,R
+3,4,Staphilococcus,,S,,S,,,S,R
+3,5,Staphilococcus,,S,,S,,,S,S
